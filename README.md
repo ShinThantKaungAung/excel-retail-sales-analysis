@@ -1,6 +1,6 @@
 # Retail Sales & Profitability Analysis
 
-An end-to-end Excel project analyzing 50,000 retail transactions across sales, product, customer, and store data. The project covers data cleaning, validation, multi-table integration, metric development, exploratory analysis, and dashboard reporting.
+An end-to-end Excel project analyzing 50,000 retail transactions across sales, product, customer, and store data. The project covers data cleaning, validation, multi-table integration, metric development, exploratory data analysis, and dashboard reporting.
 
 ## Dashboard Preview
 
